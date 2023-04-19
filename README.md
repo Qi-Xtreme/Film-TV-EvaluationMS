@@ -5,15 +5,23 @@
 
 当前网页基于开发阶段
 
+#### 使用方法：
+
+使用开发工具或者git克隆
+
+打开当前文件夹->git bash here
+
+npm install
+
 运行:
 npm run serve
 
-进入页面后，点击index即可进入，页面展示如下：
-![输入图片说明](97X0ZIVH~%7D%7BUNMVK~HLPZLU.png)
+进入后，页面展示如下：
+![输入图片说明](%E5%A4%A7%E4%BD%93%E6%A1%86%E6%9E%B6.png)
 
 
 #### 软件架构
-![输入图片说明](4F%6059Q%7DARZ6%5BK~X%250RKMUKE.png)
+![输入图片说明](%E5%9C%A8%E7%BA%BF%E5%BD%B1%E8%A7%86%E8%AF%84%E5%88%86%E7%B3%BB%E7%BB%9F%EF%BC%88%E6%A8%A1%E5%9D%97%E6%8B%86%E5%88%86%EF%BC%89.png)
 
 
 #### 安装教程
